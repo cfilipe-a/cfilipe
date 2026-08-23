@@ -1,8 +1,10 @@
 # 👨🏻‍💻 Filipe Cavalcante
 
-**`Técnico em Eletrônica | Desenvolvedor de Software & BI | Estudante de Engenharia Elétrica`**
+**`Técnico em Eletrônica | Desenvolvedor de Software (Vibe Coding) & BI | Estudante de Engenharia Elétrica`**
 
-Me chamo Filipe Cavalcante, tenho 26 anos e moro em Osasco - SP. Sou Técnico em Eletrônica registrado (CRT-SP/CFT), atuando diretamente na marca Aiwa, e atualmente curso Engenharia Elétrica. Sou um entusiasta da união entre hardware e software. Desenvolvo sistemas de automação industrial, plataformas de gestão (como o ERP CAVALTRON utilizando Supabase) e dashboards em Power BI para análise de dados. Além disso, crio ferramentas eletrônicas autorais e estou em constante aprimoramento, estudando inglês no Senac.
+Me chamo Filipe Cavalcante, tenho 26 anos. Sou Técnico em Eletrônica registrado (CRT-SP/CFT), atualmente curso Engenharia Elétrica. Sou um entusiasta da união entre hardware e software. Desenvolvo sistemas de automação industrial e residencial, plataformas de gestão e dashboards de dados. 
+
+Além disso, sou um forte adepto do **Vibe Coding**, construindo e orquestrando sistemas complexos de ponta a ponta com o auxílio avançado de Inteligências Artificiais (como Google AI Studio, Claude e Lovable). Crio ferramentas eletrônicas autorais e estou em constante aprimoramento para deixar minha marca no mundo.
 
 <p align="left">
     <a href="https://linkedin.com/in/filipe-cavalcante-51338b2aa/">
@@ -12,18 +14,30 @@ Me chamo Filipe Cavalcante, tenho 26 anos e moro em Osasco - SP. Sou Técnico em
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/cfilipe-a?tab=followers">
+    <a href="https://www.instagram.com/_filipe_cavalcante_/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Cfilipe-A?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Cfilipe-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### ⚙️ Hard Skills (Tecnologias & Ferramentas)
+### ⚙️ Hard Skills & AI Tools
+
+<img align="left" alt="Google AI Studio" title="Google AI Studio" height="28px" style="padding-right: 10px; padding-bottom: 10px;" src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img align="left" alt="Claude AI" title="Claude AI" height="28px" style="padding-right: 10px; padding-bottom: 10px;" src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img align="left" alt="Lovable" title="Lovable" height="28px" style="padding-right: 10px; padding-bottom: 10px;" src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<br/><br/><br/>
 
 <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -37,9 +51,10 @@ Me chamo Filipe Cavalcante, tenho 26 anos e moro em Osasco - SP. Sou Técnico em
 <br/>
 <br/>
 
+- **Desenvolvimento com IA (Vibe Coding):** Criação acelerada de interfaces, lógicas de backend e arquitetura de sistemas utilizando IA generativa (Google AI Studio, Claude, Lovable), reduzindo tempo de deploy de novas features.
 - **Eletrônica & Hardware:** Manutenção de equipamentos industriais e TVs, solda avançada, desenvolvimento de placas, controle PID e projetos com microcontroladores.
 - **Análise de Dados (BI):** Power BI, modelagem de dados, criação de medidas DAX e estruturação de Portfólio-BI.
-- **Desenvolvimento de Software:** Criação de ERPs, integração de banco de dados (Supabase), deploy e infraestrutura (DigitalOcean e Cloudflare).
+- **Desenvolvimento de Software Tradicional:** Criação de ERPs, integração de banco de dados (Supabase), deploy e infraestrutura (DigitalOcean e Cloudflare).
 
 ---
 
@@ -47,19 +62,20 @@ Me chamo Filipe Cavalcante, tenho 26 anos e moro em Osasco - SP. Sou Técnico em
 
 - **Troubleshooting Avançado:** Capacidade analítica para identificar e corrigir falhas tanto em circuitos eletrônicos complexos quanto em gargalos de software.
 - **Visão Sistêmica e de Negócios:** Entendimento prático de como a tecnologia (seja um equipamento ou um dashboard de BI) impacta a operação e o faturamento de uma empresa.
-- **Autogestão e Iniciativa:** Capacidade de tirar projetos do papel de ponta a ponta, desde a prototipagem de ferramentas de bancada até o lançamento de versões de software (ex: v4.1.0 e 5.0).
-- **Adaptabilidade Multidisciplinar:** Facilidade em transitar entre o hardware "mão na massa" (reparos, ferramentas) e a camada lógica (programação, análise de dados).
+- **Autogestão e Iniciativa:** Capacidade de tirar projetos do papel de ponta a ponta, desde a prototipagem de ferramentas de bancada até o lançamento de versões de software (ex: v4.1.0 e 5.0 do CAVALTRON).
+- **Adaptabilidade Multidisciplinar:** Facilidade em transitar entre o hardware "mão na massa", a camada lógica e a engenharia de prompts avançados.
 
 ---
 
-### 🚀 Direcionamento de Carreira & Próximos Passos
+### 🏆 Projetos em Destaque
 
-Como um profissional que domina tanto a camada física (eletrônica/hardware) quanto a lógica (software/BI), seu perfil é altamente estratégico. Aqui estão algumas trilhas sugeridas para o seu futuro profissional:
+Aqui está a base de monitoramento em que estou trabalhando, integrando conceitos de infraestrutura e desenvolvimento:
 
-1. **Internet das Coisas (IoT) Industrial:** A intersecção perfeita entre o seu conhecimento técnico em componentes eletrônicos e sua capacidade de criar plataformas de monitoramento via web (como o SMC).
-2. **Engenharia de Dados / BI Analítico:** Aprofundar-se em arquitetura de dados pode ser um grande diferencial, utilizando seu conhecimento em DAX e Supabase para construir data warehouses para a indústria.
-3. **Sistemas Embarcados (Embedded Systems):** Com a faculdade de Engenharia Elétrica, focar na programação de baixo nível (C/C++) para automação industrial de alta complexidade.
-4. **Inglês Técnico:** O avanço no curso do Senac será a chave definitiva para ler documentações complexas, contribuir para projetos globais e abrir portas para o mercado internacional.
+<a href="https://github.com/Cfilipe-A/smc-sistema-monitoramento-cavaltron">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cfilipe-A&repo=smc-sistema-monitoramento-cavaltron&theme=tokyonight" alt="SMC Sistema de Monitoramento CAVALTRON" />
+</a>
+
+<br/>
 
 ---
 
@@ -71,13 +87,13 @@ Como um profissional que domina tanto a camada física (eletrônica/hardware) qu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Cfilipe-A&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cfilipe-A&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
   />
 </p>
