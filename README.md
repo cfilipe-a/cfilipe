@@ -21,49 +21,36 @@ Além disso, sou um forte adepto do **Vibe Coding**, construindo e orquestrando 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Cfilipe-A?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Cfilipe-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  
 </p>
 
 ---
 
 ### ⚙️ Hard Skills & AI Tools
 
-<img align="left" alt="Google AI Studio" title="Google AI Studio" height="28px" style="padding-right: 10px; padding-bottom: 10px;" src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img align="left" alt="Claude AI" title="Claude AI" height="28px" style="padding-right: 10px; padding-bottom: 10px;" src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img align="left" alt="Lovable" title="Lovable" height="28px" style="padding-right: 10px; padding-bottom: 10px;" src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<br/><br/><br/>
-
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Visual Studio" title="Visual Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 
 <br/>
 <br/>
 
 - **Desenvolvimento com IA (Vibe Coding):** Criação acelerada de interfaces, lógicas de backend e arquitetura de sistemas utilizando IA generativa (Google AI Studio, Claude, Lovable), reduzindo tempo de deploy de novas features.
-- **Eletrônica & Hardware:** Manutenção de equipamentos industriais e TVs, solda avançada, desenvolvimento de placas, controle PID e projetos com microcontroladores.
-- **Análise de Dados (BI):** Power BI, modelagem de dados, criação de medidas DAX e estruturação de Portfólio-BI.
-- **Desenvolvimento de Software Tradicional:** Criação de ERPs, integração de banco de dados (Supabase), deploy e infraestrutura (DigitalOcean e Cloudflare).
+- **Eletrônica & Hardware:** Manutenção de equipamentos de Áudio e Vídeo, solda SMD, BGA e PTH, desenvolvimento de placas eletrônicas e projetos com microcontroladores.
+- **Análise de Dados (BI):** Power BI, Excel, modelagem de dados, criação de medidas DAX e estruturação de BI.
+- **Desenvolvimento de Software Tradicional:** Criação de ERPs, integração de banco de dados (Supabase), deploy e infraestrutura (DigitalOcean e Cloudflare, Google Cloud).
 
 ---
 
 ### 🧠 Soft Skills
 
-- **Troubleshooting Avançado:** Capacidade analítica para identificar e corrigir falhas tanto em circuitos eletrônicos complexos quanto em gargalos de software.
-- **Visão Sistêmica e de Negócios:** Entendimento prático de como a tecnologia (seja um equipamento ou um dashboard de BI) impacta a operação e o faturamento de uma empresa.
-- **Autogestão e Iniciativa:** Capacidade de tirar projetos do papel de ponta a ponta, desde a prototipagem de ferramentas de bancada até o lançamento de versões de software (ex: v4.1.0 e 5.0 do CAVALTRON).
+- **Troubleshooting Avançado:** Capacidade analítica para identificar e corrigir falhas em circuitos eletrônicos.
+- **Autogestão e Iniciativa:** Capacidade de tirar projetos do papel de ponta a ponta, desde a prototipagem de ferramentas de bancada até o lançamento de versões de software.
 - **Adaptabilidade Multidisciplinar:** Facilidade em transitar entre o hardware "mão na massa", a camada lógica e a engenharia de prompts avançados.
+- **Visão Sistêmica e de Negócios:** Entendimento prático de como a tecnologia (seja um equipamento ou um dashboard de BI) impacta a operação e o faturamento de uma empresa.
 
 ---
 
@@ -82,13 +69,6 @@ Aqui está a base de monitoramento em que estou trabalhando, integrando conceito
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Cfilipe-A&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
   <img 
       align="left" 
